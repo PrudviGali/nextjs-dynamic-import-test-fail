@@ -4,9 +4,10 @@
 
 Download the example [or clone the repo](https://github.com/PrudviGali/nextjs-dynamic-import-test-fail.git):
 
-```
 
-Install it and run:
+### Install it and run:
+
+
 
 ```bash
 npm install
