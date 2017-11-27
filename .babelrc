@@ -1,0 +1,14 @@
+{
+  "presets": [
+    "es2015",
+    "next/babel"
+  ],
+  "env": {
+    "test": {
+      "presets": [
+        "es2015",
+        "next/babel"
+      ]
+    }
+  }
+}
