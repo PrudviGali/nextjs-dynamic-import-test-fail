@@ -1,0 +1,1 @@
+# nextjs-dynamic-import-test-fail
