@@ -15,6 +15,6 @@ npm run test
 ```
 
 
-[Reported this issue in Next.js Build] (https://github.com/zeit/next.js/issues/3345):
+Reported this issue in [Next.js Build] (https://github.com/zeit/next.js/issues/3345):
 
 
